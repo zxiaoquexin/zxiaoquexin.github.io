@@ -13,7 +13,7 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "postcss-pxtorem": "^4.0.1",
-    "vant": "^1.6.17",
+    "vant": "^2.1.8",
     "vant-weapp": "^0.5.11",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
